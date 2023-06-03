@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{97F18C6A-F6D0-4820-A00F-47CB03D87085}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UpdateProgram/UpdateProgramFunctions.cs">
+    <Files>
+      <File FileName="UpdateProgram/MyClass.cs" Line="78" Column="31" />
+      <File FileName="Test/Program.cs" Line="26" Column="43" />
+      <File FileName="UpdateProgram/VersionInfo.cs" Line="9" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UpdateProgram" expanded="True">
+            <Node name="Test" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="UpdateProgram" expanded="True">
+              <Node name="UpdateProgramFunctions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
